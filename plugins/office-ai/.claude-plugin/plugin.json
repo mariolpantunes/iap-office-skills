@@ -1,0 +1,7 @@
+{
+  "name": "office-ai",
+  "description": "Skills for office work with Claude: mail triage, batch documents, data to Excel or BI, writing and checking.",
+  "version": "0.1.0",
+  "author": { "name": "Mario Antunes" },
+  "license": "MIT"
+}

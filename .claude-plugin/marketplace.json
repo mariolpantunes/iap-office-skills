@@ -1,0 +1,12 @@
+{
+  "name": "iap-office-skills",
+  "description": "Skills for office work with Claude: mail triage, batch documents, data to Excel or BI, writing and checking.",
+  "owner": { "name": "Mario Antunes" },
+  "plugins": [
+    {
+      "name": "office-ai",
+      "source": "./plugins/office-ai",
+      "description": "Eleven skills for the course IA - Introducao e Aplicacoes Praticas: mail, documents, data, writing, checks."
+    }
+  ]
+}
