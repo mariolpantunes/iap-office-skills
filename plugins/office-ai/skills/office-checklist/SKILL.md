@@ -7,6 +7,7 @@ description: Final check of a draft, table or summary against its sources, listi
 
 1. List every concrete claim in the deliverable: names, numbers, dates, deadlines, promises.
 2. For each claim give the source (file and place) and mark it OK, WRONG or MISSING (not in any source).
+   Check roles too: who decided, who approved, who does a task and who only asked for it. Someone who requested or proposed something has not necessarily done or approved it; if the source does not name the person for that role, mark the claim WRONG or MISSING.
 3. Flag anything the user must decide or fill: a contact person, a price, a commitment.
 4. Flag promises or commitments that no source or instruction allows.
 5. Output a table: claim, source, status. End with the count per status.
